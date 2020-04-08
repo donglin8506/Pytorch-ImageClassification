@@ -1,4 +1,4 @@
-# Pytorch-CIFAR10
+# Pytorch-ImageClassification
 
 ## Installation
 
